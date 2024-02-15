@@ -8,11 +8,11 @@
 Recetarios es una aplicacion que permitira a los usuarios mediante una creacion de cuenta subir recetas de cocina que tengan de costumbre o que hayan obtenido de cualquier otra forma, adicionalmente los usuarios podran participar en grupos y eventos, aparte de los usuarios algunas recetas seran suministradas por Edamam API la cual es una api gratuita de acceso a recetas.
 
 # Aplicaciones similares
-*Tasty
+* Tasty
 
-*Ekilu
+* Ekilu
 
-*Cookpad Recetas
+* Cookpad Recetas
 
 
 
@@ -23,11 +23,11 @@ Drogueria es una aplicacion que permitira a los usuarios acceder a una base de d
 
 
 # Aplicaciones Similares  
-*Cafam
+* Cafam
 
-*Audifarma
+* Audifarma
 
-*Colsubsidio 
+* Colsubsidio 
 
 # Idea 3: Calculadora 
 
@@ -35,8 +35,8 @@ Drogueria es una aplicacion que permitira a los usuarios acceder a una base de d
 Calculadora es una aplicacion que permite al usuario ingresar numeros y realizar operaciones aritmeticas.
 
 # Aplicaciones Similares 
-*Calculadora
+* Calculadora
 
-*Calculator
+* Calculator
 
-*ClevCalc
+* ClevCalc
