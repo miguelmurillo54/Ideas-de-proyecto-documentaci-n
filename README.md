@@ -16,7 +16,7 @@ Recetarios es una aplicacion que permitira a los usuarios mediante una creacion 
 
 
 
-# Idea 2: Droguria 
+# Idea 2: Drogueria 
 
 
 Drogueria es una aplicacion que permitira a los usuarios acceder a una base de datos donde podra consultar los medicamentos del mercado mediante una api OpenFDA API, seleccionarlos y agregarlos a una lista de deseos, paso siguiente procedera a introducir sus datos personales como nombre y direccion para crear un pedido. posteriormente se incluira la metodologia de pago.
