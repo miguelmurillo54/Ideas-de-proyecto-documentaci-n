@@ -29,4 +29,14 @@ Drogueria es una aplicacion que permitira a los usuarios acceder a una base de d
 
 *Colsubsidio 
 
+# Idea 3: Calculadora 
 
+
+Calculadora es una aplicacion que permite al usuario ingresar numeros y realizar operaciones aritmeticas.
+
+# Aplicaciones Similares 
+*Calculadora
+
+*Calculator
+
+*ClevCalc
