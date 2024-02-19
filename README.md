@@ -10,7 +10,7 @@ Recetarios es una aplicacion que permitira a los usuarios mediante una creacion 
 # Aplicaciones similares
 * Tasty
 
-* Ekilu
+* Receta Facil 
 
 * Cookpad Recetas
 
